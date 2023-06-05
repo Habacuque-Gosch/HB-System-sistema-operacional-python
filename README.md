@@ -3,10 +3,6 @@
     <img src='./demo/demo.gif' title='demo system' width='300px' />
 </div>
 
-
-## Contribuidores
-[<img src="https://github.com/Habacuque-Gosch" /><br /><sub>Habacuque Gosch</sub>](https://github.com/Habacuque-Gosch)
-
 ## Start
 
 
