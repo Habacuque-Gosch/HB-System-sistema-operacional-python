@@ -1,6 +1,6 @@
 <div align='center'>
-    <h1>Sistema de cadastro<h1>
-    <img src='./demo.gif' title='demo tela de login' width='400px' />
+    <h1>Sistema Operacional<h1>
+    <img src='./demo.gif' title='demo sistema operacional' width='400px' />
 </div>
 
 <h2>Bem vindo(ao) meu repositório</h2>
