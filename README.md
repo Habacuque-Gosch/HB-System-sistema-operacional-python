@@ -16,4 +16,4 @@
 
 para rodar esse projeto em sua máquina, favor clonar o repositório
 
-Logo após ter baixado, coloque o projeto em uma unica pasta com o nome "sistema operacional"
+Logo após ter clonado(baixado), coloque o projeto em uma unica pasta com o nome "sistema operacional"
