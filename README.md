@@ -17,16 +17,16 @@ eu mesmo desenvolvi assim como: calculadora, lixeira, e o jogo snake.
 
 :heavy_check_mark: `Funcionalidade 2:` Trocar nome de usuario
     
-:heavy_check_mark: `Funcionalidade 2:` Trocar foto de usuario
+:heavy_check_mark: `Funcionalidade 3:` Trocar foto de usuario
     
-:heavy_check_mark: `Funcionalidade 2:` acessar programas(pelo própio codigo fonte)
+:heavy_check_mark: `Funcionalidade 2:` acessar/rodar/importa programas(pelo própio codigo fonte)
 
 <video width="420" height="340" controls="controls">
     <source src="./filme.mp4" type="video/mp4">
 </video>
  
 <div align='center'>
-    <h1>Sistema Operacional<h1>
+    <h1>HB System<h1>
     <img src='./demo.gif' title='demo sistema operacional' width='400px' />
 </div>
             
