@@ -32,7 +32,7 @@ eu mesmo desenvolvi assim como: calculadora, lixeira, e o jogo snake.
             
 ## Ferramentas utilizadas
 
-<a href="https://www.python.org" target="_blank"> <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg" alt="Python" width="40" height="40"/> </a> 
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
     
 ### Você também me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/habacuque-gosch-de-oliveira-993b45264/">
