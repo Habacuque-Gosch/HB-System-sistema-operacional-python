@@ -7,7 +7,7 @@
 ## Descrição do projeto
  <p align="justify">
 Olá, seja muito bem-vindo(a), meu nome é Habacuque Gosch, e esse projeto foi desenvolvido com o intuito de simular
-um sistema operacional assim como o windows ou linux. Bem o sistema ele já vem com alguns programamas básicos que
+um sistema operacional assim como o windows ou linux. Bem o sistema ele já vem com alguns programas básicos que
 eu mesmo desenvolvi assim como: calculadora, lixeira, e o jogo snake. 
 <div>
     
